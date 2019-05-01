@@ -1,0 +1,55 @@
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:300,400,500,700")
+
+
+
+h1 {
+  color: black;
+  font-size: 30px;
+  font-family: arial;
+}
+
+p {
+  color: white;
+  text-shadow: 2px 2px #ff0000;
+  font-size: 20px;
+  font-weight: bold
+}
+
+
+body {
+color:black;
+background-color:white;
+background-image:url(images/mont_royal_by_night.jpg);
+background-repeat:no-repeat;
+background-position:center center;
+background-size: 100%
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+.text-center {
+  text-align: center;
+}
+.card-white {
+  background: white;
+  padding: 30px;
+  border: 1px solid lightgrey;
+}
+
+
+.container {
+    width: 700px;
+    margin: 40px auto;
+        margin-top: 40px;
+        margin-right: auto;
+        margin-bottom: 40px;
+        margin-left: auto;
+}
+
+body {
+    color: #575F7D;
+    font-family: 'Lora', serif;
+    font-size: 17px;
+    font-weight: lighter;
+}
